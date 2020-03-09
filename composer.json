@@ -1,0 +1,12 @@
+{
+    "name": "trungpv/fb-scrape",
+    "authors": [
+        {
+            "name": "trungpv1601",
+            "email": "trungpv1601@gmail.com"
+        }
+    ],
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    }
+}
